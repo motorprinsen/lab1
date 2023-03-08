@@ -1,6 +1,5 @@
 package com.example.lab1;
 
-
 public class Validator {
 
     public static boolean isPhoneNumberValid(String phoneNumber) {
@@ -32,5 +31,4 @@ public class Validator {
         }
         return true;
     }
-
 }
